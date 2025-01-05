@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fruit Hub</string>
+    <string name="facebook_app_id">1104715160823408</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">0bf0932ffed7aa0186b0d06e60560e74</string>
+</resources>
